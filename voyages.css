@@ -178,22 +178,27 @@ nav {
 
 .gallery-cell:nth-of-type(1) {
     background-image: url(../img/berlin.jpg);
+    background-image: url(./img/berlin.jpg);
 }
 
 .gallery-cell:nth-of-type(2) {
     background-image: url(../img/tokyo.jpg);
+    background-image: url(./img/tokyo.jpg);
 }
 
 .gallery-cell:nth-of-type(3) {
     background-image: url(../img/los-angeles.jpg);
+    background-image: url(./img/los-angeles.jpg);
 }
 
 .gallery-cell:nth-of-type(4) {
     background-image: url(../img/alger.jpg);
+    background-image: url(./img/alger.jpg);
 }
 
 .gallery-cell:nth-of-type(5) {
     background-image: url(../img/paris.jpg);
+    background-image: url(./img/paris.jpg);
 }
 
 .flickity-viewport {
